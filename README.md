@@ -2,7 +2,7 @@
 
 <a href="https://envoapi.com/mcp">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/envoapi-official/linkedin-data-mcp/HEAD/assets/logo-dark.svg">
     <img src="assets/logo-light.svg" alt="EnvoAPI" height="44">
   </picture>
 </a>
